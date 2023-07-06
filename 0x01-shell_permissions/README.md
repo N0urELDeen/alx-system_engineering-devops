@@ -9,3 +9,4 @@
 9- chmod o+xrw  script that sets the permission to the file for user only
 10- chmod 753 to -rwxr-x-wx
 11- sudo chmod -R +111 */ script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.Regular files should not be changed.
+12- mkdir -m 751 file_name to a script that creates a directory called my_dir with permissions 751 in the working directory.
