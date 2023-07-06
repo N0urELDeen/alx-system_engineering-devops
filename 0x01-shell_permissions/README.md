@@ -3,4 +3,5 @@
 3- groups to print the current groups
 4- chown to change the file owner 
 5- touch to creat an empty folder
-6- chmod u+x to give execute permission 
+6- chmod u+x to give execute permission
+7- chmod ug+x,o+r script that adds execute permission to the owner and the group owner, and read permission to other users 
